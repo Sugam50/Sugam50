@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sugamagrawal45@gmail.com**
 
-- Visit my portfolio [![Website](sugamagrawal.netlify.app)](sugamagrawal.netlify.app)
+- Visit my portfolio [![Website](sugamagrawal.netlify.app)](https://sugamagrawal.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
