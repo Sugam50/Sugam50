@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sugam Agrawal</h1>
-<h3 align="center">AI & Backend Engineer | SDE @ Jio</h3>
+<h3 align="center">AI & Backend Engineer | SDE </h3>
 <p align="center">
   <b>Building Scalable RAG Systems, Agentic Workflows & Cloud Infrastructure</b>
 </p>
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Development Engineer at Jio**, bridging the gap between distributed backend systems and production-grade **Generative AI**.
+I am a **Software Development Engineer**, bridging the gap between distributed backend systems and production-grade **Generative AI**.
 
 While many build AI demos, I focus on the **infrastructure, scalability, and evaluation** required to run AI in production. I combine deep backend expertise (Kubernetes, Microservices) with modern AI stacks (RAG, Vector DBs, Agents) to build reliable intelligent systems.
 
